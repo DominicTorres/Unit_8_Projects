@@ -64,7 +64,11 @@ table tr{
 table tr th:first-of-type{
    font-size: 2em;
 }
-
+/*step17*/
+table th{
+   background-color: transparent;
+   color: black;
+}
 
 
 
