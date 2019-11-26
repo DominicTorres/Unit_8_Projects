@@ -14,21 +14,56 @@
 */
 
 /* Table Styles */
-
+/*step9*/
+table{
+   background-color: linear-gradient(to bottom rgb(190, 215, 255) black);
+   border: 5px solid grey;
+}
+/*step10*/
+table th{
+   border: 3px solid grey;
+   line-height: 1.4em;
+   padding: 8px; 
+}
+table td{
+   border: 3px solid grey;
+   line-height: 1.4em;
+   padding: 8px; 
+}
+/*step11*/
+table th{
+   background-color: black;
+   color: rgb(130, 210, 255);
+   font-weight: normal;
+}
+/*step12*/
+table td{
+   color: white;
+   font-size: 0.9em;
+   text-align: center;
+}
 
 
 /* Column Styles */
-
+/*step13*/
+col#firstCol{
+   column-width: 24%;
+}
+/*step14*/
+col#dataCols{
+   column-width: 19%;
+}
 
 
 /* Table Header Styles */
-
-
-
-
-
-
-
+/*step15*/
+table tr{
+   height: 60px;
+}
+/*step16*/
+table tr th:first-of-type{
+   font-size: 2em;
+}
 
 
 
