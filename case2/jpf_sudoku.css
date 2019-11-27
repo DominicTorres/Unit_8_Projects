@@ -6,14 +6,24 @@
    Case Problem 2
 
    Sudoku Style Sheet
-   Author: 
-   Date:   
+   Author:Dominic Torres 
+   Date: 11/26/19  
 
    Filename:         jpf_sudoku.css
 
 */
 
 /* Table Styles */
+/*step11*/
+table.spuzzle{
+   border: collapse;
+   margin-bottom: 0px;
+   margin-top: 0px;
+   margin-left: auto;
+   margin-right: auto;
+   width: 90%;
+}
+/*step12*/
 
 
 
